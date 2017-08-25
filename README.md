@@ -6,4 +6,4 @@ Dependencies: OpenCV
 2) The program will iterate through all the images in your folder. Click and Drag to select the region of your object
 3) Click 'z' to undo
 4) Click 'esc' to move on to the next image
-5) If no region is selected, the image will move to negative folder
+5) If no region is selected, the image will be moved to the negative folder
